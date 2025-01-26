@@ -3,6 +3,9 @@
     "domain": "localplayer.dev",
     "subdomain": "fairrust",
 
+    "owner": {
+        "email": "elepoyt@gmail.com"
+    },
     "record": {
         "A": ["84.77.136.87"],
         "SRV": [
